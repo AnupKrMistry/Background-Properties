@@ -12,18 +12,14 @@ a{
     text-decoration: none;
     margin-left: 9%;
     color: #fff; 
-    text-decoration: none;
 }
 
 a span{
-    text-decoration: none;
     padding-left: 10px;
     padding-right: 10px;
-    text-decoration: none; 
 }
 
 .active{
-    text-decoration: none;
     background-color: beige;
     padding: 10px;
     margin-left: 40px;
@@ -51,10 +47,8 @@ footer{
 .foot_content{
     text-align: justify;
     width: 45%;
-    height: fit-content;
     color: #fff;
     align-self: flex-end;
-
 }
 
 .foot_image img{
